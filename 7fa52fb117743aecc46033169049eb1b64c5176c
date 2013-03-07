@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAeX///E8\u003d",
+        "filename": "tools/bootimg.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1039
+      },
+      "writtenOn": "2013-03-07T21:49:05Z",
+      "side": 1,
+      "message": "this block is maybe not required",
+      "revId": "7fa52fb117743aecc46033169049eb1b64c5176c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
