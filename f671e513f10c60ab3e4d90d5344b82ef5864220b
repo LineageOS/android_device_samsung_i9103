@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAfn//+S4\u003d",
+        "filename": "DeviceSettings/res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-05-10T18:18:56Z",
+      "side": 1,
+      "message": "Délai",
+      "revId": "f671e513f10c60ab3e4d90d5344b82ef5864220b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
